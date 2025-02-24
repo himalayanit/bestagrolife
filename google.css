@@ -1,0 +1,14 @@
+.skiptranslate.goog-te-gadget {
+    height: 26px;
+    overflow: hidden;
+    margin-top: 7%;
+
+}
+@media only screen and (min-device-width: 993px) and (max-device-width: 1199px){
+    
+   .skiptranslate.goog-te-gadget {
+    margin-top: 5%;
+}
+    
+    
+}
